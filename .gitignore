@@ -1,0 +1,14 @@
+# simulation output
+results/
+*.dat
+*.png
+
+# Julia
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# editors / OS
+.vscode/
+.DS_Store
